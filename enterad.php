@@ -11,18 +11,17 @@
 <header>
 
     <a href="http://www.ttu.edu.jo/"><img src="ttuphoto.jpg" class="logo"></a>
-    <div class="box"><a href="login.php">Committee member</a></div>
+    <img src="user_1077063.png" class="memberphoto">
     <nav class="navigation">
-        <input type="checkbox" id="check">
+    <input type="checkbox" id="check">
         <label for="check" class="check">
             <i class="fas fa-bars"></i>
         </label>
         <ul>
             <li><a href="search.php">search</a></li>
-            <li><a href="contact.html">للتواصل معنا </a></li>
-            <li><a href="index.php">طريقة الأنضمام</a></li>
-            <li><a href="index.html">الصفحة الرئيسة</a></li>
-            <li><a href="loginad.php">admin</a></li>
+            <li><a href="adminmember.php">حذف عضو</a></li>
+            <li><a href="joinad.php">إضافة عضو</a></li>
+            <li><a href="enterad.php">الصفحة الرئيسة</a></li>
         </ul>
     </nav>
 </header>
